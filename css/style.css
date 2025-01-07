@@ -7,7 +7,7 @@
 
 .green {
   border-color: green;
-  visibility: hidden;
+  /* visibility: hidden; */
 }
 
 .blue {
@@ -52,4 +52,5 @@ p::first-letter {
     ),
     linear-gradient(#eee 0.1em, transparent 0.1em);
   background-size: 100% 1.2em;
+  padding: 10%;
 }
